@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: vikilwq512@gmail.com
 description: "一个非正常程序媛 | lwq，openstack devops | 这里是 @viki 的个人博客"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://viki.github.io"              # your host, for absolute URL
+url: "https://liliVicky.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
