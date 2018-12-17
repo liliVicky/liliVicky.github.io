@@ -1,6 +1,6 @@
 # ViKi's Blog
 
-### [View Live Hux Blog &rarr;](https://liwenqi.me)
+### [View Live ViKi's Blog &rarr;](https://liwenqi.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
