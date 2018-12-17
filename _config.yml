@@ -4,7 +4,7 @@ SEOTitle: Vicky's Blog
 header-img: img/home-bg.jpg
 email: vikilwq512@gmail.com
 description: "一个非正常程序媛 | lwq，openstack devops | 这里是 @viki 的个人博客"
-keyword: "Viki, Viki Blog, Viki的博客， liwenqi, 郦雯琦, devops, python, tools, test
+keyword: "Viki, Viki Blog, Viki的博客， liwenqi, 郦雯琦, devops, python, tools, test"
 url: "https://liliVicky.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
