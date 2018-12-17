@@ -1,6 +1,6 @@
 # Site settings
-title: liliVicky's Blog
-SEOTitle: liliVicky's Blog
+title: Vicky's Blog
+SEOTitle: Vicky's Blog
 header-img: img/home-bg.jpg
 email: vikilwq512@gmail.com
 description: "一个非正常程序媛 | lwq，openstack devops | 这里是 @viki 的个人博客"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     liliVicky
-zhihu_username:     liliVicky
-github_username:    liliVicky
-twitter_username:   liliVicky
-#facebook_username:  liliVicky
+weibo_username:     Vicky
+zhihu_username:     Vicky
+github_username:    Vicky
+twitter_username:   Vicky
+#facebook_username:  Vicky
 #linkedin_username:  firstname-lastname-idxxxx
 
 
