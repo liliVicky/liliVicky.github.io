@@ -1,6 +1,6 @@
 # Site settings
-title: Vicky's Blog
-SEOTitle: Vicky's Blog
+title: ViKi's Blog
+SEOTitle: ViKi's Blog
 header-img: img/home-bg.jpg
 email: vikilwq512@gmail.com
 description: "一个非正常程序媛 | lwq，openstack devops | 这里是 @viki 的个人博客"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Vicky
-zhihu_username:     Vicky
-github_username:    Vicky
-twitter_username:   Vicky
+weibo_username:     ViKi
+zhihu_username:     ViKi
+github_username:    ViKi
+twitter_username:   ViKi
 #facebook_username:  Vicky
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,7 +78,7 @@ ga_domain: liliVicky.github.io
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: ""
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
