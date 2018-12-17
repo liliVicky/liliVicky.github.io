@@ -1,6 +1,6 @@
 # Site settings
-title: Viki Blog
-SEOTitle: viki的博客 | Viki Blog
+title: liliVicky's Blog
+SEOTitle: liliVicky's Blog
 header-img: img/home-bg.jpg
 email: vikilwq512@gmail.com
 description: "一个非正常程序媛 | lwq，openstack devops | 这里是 @viki 的个人博客"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Viki
-zhihu_username:     Viki
-github_username:    Viki
-twitter_username:   Viki
-#facebook_username:  Viki
+weibo_username:     liliVicky
+zhihu_username:     liliVicky
+github_username:    liliVicky
+twitter_username:   liliVicky
+#facebook_username:  liliVicky
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: liliVicky
 
 # Netease settings
 netease_comment: false
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: liliVicky.github.io
 
 
 
